@@ -1,0 +1,6 @@
+# The Gradle wrapper runs on Linux in CI: keep its shell script LF-only.
+gradlew     text eol=lf
+*.sh        text eol=lf
+*.bat       text eol=crlf
+*.jar       binary
+*.png       binary

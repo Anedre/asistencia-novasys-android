@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Novasys" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/nova_canvas</item>
+    </style>
+
+    <!-- System splash: the emblem on its jet disc, handed off to IntroOverlay. -->
+    <style name="Theme.Novasys.Starting" parent="Theme.SplashScreen.IconBackground">
+        <item name="windowSplashScreenBackground">@color/nova_canvas</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/nova_jet</item>
+        <item name="postSplashScreenTheme">@style/Theme.Novasys</item>
+    </style>
+</resources>

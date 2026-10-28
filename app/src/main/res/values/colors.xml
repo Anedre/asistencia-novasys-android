@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colours needed before Compose draws: window, splash and launcher icon. -->
+    <color name="nova_canvas">#FFFFFF</color>
+    <color name="nova_jet">#0B0C0F</color>
+</resources>

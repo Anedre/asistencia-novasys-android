@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    The orbital mark from the Nova Assistance logo (public/logo.png in the web
+    repo): two rings, a four-point star and two orbiting dots. Kept inside the
+    66dp adaptive-icon safe zone.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:strokeColor="#80FFFFFF"
+        android:strokeWidth="1.6"
+        android:pathData="M54,27a27,27 0,1 1,0 54a27,27 0,1 1,0 -54z" />
+    <path
+        android:strokeColor="#3FBEFF"
+        android:strokeWidth="1.6"
+        android:pathData="M54,37a17,17 0,1 1,0 34a17,17 0,1 1,0 -34z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,41L56.2,51.8L67,54L56.2,56.2L54,67L51.8,56.2L41,54L51.8,51.8Z" />
+    <path
+        android:fillColor="#3FBEFF"
+        android:pathData="M54,51.4a2.6,2.6 0,1 1,0 5.2a2.6,2.6 0,1 1,0 -5.2z" />
+    <path
+        android:fillColor="#3FBEFF"
+        android:pathData="M76.1,36.1a2.4,2.4 0,1 1,0 4.8a2.4,2.4 0,1 1,0 -4.8z" />
+    <path
+        android:fillColor="#3FBEFF"
+        android:pathData="M59.8,68.1a2,2 0,1 1,0 4a2,2 0,1 1,0 -4z" />
+</vector>
